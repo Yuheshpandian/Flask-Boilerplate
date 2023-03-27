@@ -1,0 +1,31 @@
+body {
+    background: rgba(0, 0, 0, 0.718);
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace, serif;
+    text-align: center;
+    color: rgb(255, 179, 0);
+}
+img {
+    width: 600px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px white;
+}
+button {
+    margin-top: 50px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    font-family: cursive, Arial, Helvetica, sans-serif;
+    background:linear-gradient( rgb(83, 212, 255), rgba(32, 217, 250, 0.953));
+    transition:transform 1s;
+}
+button:hover {
+    background:linear-gradient(rgba(9, 185, 255, 0.953), rgb(88, 208, 255));
+    transform: scale(1.2);
+}

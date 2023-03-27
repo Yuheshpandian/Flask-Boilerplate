@@ -1,0 +1,1 @@
+console.log("This is your home page, a message by home.js file.");

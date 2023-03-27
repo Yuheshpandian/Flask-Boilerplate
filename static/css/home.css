@@ -1,0 +1,32 @@
+@font-face {
+    font-family: headerfont;
+    src: url("/static/fonts/Comics\ Deluxe.ttf");
+}
+@font-face {
+    font-family: header2font;
+    src: url("/static/fonts/AnandaBlackPersonalUseRegular-rg9Rx.ttf");
+}
+body {
+    margin:0;
+    padding: 0;
+    background: black;
+}
+
+h1 {
+    color: rgb(210, 255, 247);
+    font-size: 35px;
+    font-family: headerfont;
+    text-align: center;
+}
+h2 {
+    color: white;
+    font-size: 33px;
+    font-family: header2font;
+    text-align: center;
+}
+img {
+    width: 500px;
+    border-radius: 30px;
+    border: 3px solid rgba(0, 0, 0, 0.23);
+    box-shadow: 0px 0px 22px  white;
+}

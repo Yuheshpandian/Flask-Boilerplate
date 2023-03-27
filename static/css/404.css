@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: rgba(0, 0, 0, 0.786);
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: whitesmoke;
+    text-align: center;
+    text-shadow: 0 0 40px white;
+    animation: glow 1s infinite linear alternate;
+}
+@keyframes glow {
+    0%{text-shadow: 0 0 40px rgba(0, 0, 0, 0.762);}
+    100%{text-shadow: 0 0 40px rgba(255, 255, 255, 0.762);}
+}
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    animation: change 2s infinite linear alternate;
+}
+@keyframes change {
+    0%{color: #000;}
+    25%{color: rgb(82, 82, 21);}
+    50%{color: rgb(159, 159, 56);}
+    75%{color: rgb(255, 255, 38);}
+    100%{color: yellow;}
+}
+img {
+    width: 600px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px white;
+}
+button {
+    margin-top: 50px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    font-family: cursive, Arial, Helvetica, sans-serif;
+    background:linear-gradient( rgb(255, 83, 83), rgba(255, 63, 63, 0.953));
+    transition:transform 1s;
+}
+button:hover {
+    background:linear-gradient(rgba(255, 154, 154, 0.953), rgb(255, 83, 83));
+    transform: scale(1.2);
+}
