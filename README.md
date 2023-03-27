@@ -86,6 +86,7 @@ now navigate to your http://localhost:5000
 
 # 🪪License
 Copyright © 2023 <a href="https://github.com/Yuheshpandian/">Yuheshpandian</a>.
-This repo is <a>MIT</a> licensed
+<br>
+This repo is <a href="https://github.com/Yuheshpandian/Flask_Boilerplate/blob/main/LICENSE">MIT</a> licensed
 
 
