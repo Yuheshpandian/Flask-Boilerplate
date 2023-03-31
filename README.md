@@ -90,6 +90,7 @@ now navigate to your http://localhost:5000
 - Well organized
 - Records the `Internal Server Error` of your site , while it is on the production
 - Fast web development routine
+- Default Favicon
 <br>
 <br></br>
 
