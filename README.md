@@ -1,6 +1,16 @@
 # Flask_Boilerplate
 Want to create your website or webapp in `flask` as quick as possible, then try this boilerplate. This Repository is completly made for the sake of begginers and to make your web development routine a bit *faster* and to make you *productive*. This boilerplate is super flexible, you can alter this code to create your desired website. You can add, remove or modify the files in accordance to your project idea.
 
+<div align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Yuheshpandian/Flask_Boilerplate?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/Yuheshpandian/Flask_Boilerplate?style=plastic)
+![GitHub](https://img.shields.io/github/license/Yuheshpandian/Flask_Boilerplate?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/Yuheshpandian/Flask_Boilerplate?style=plastic)
+![contribution](https://img.shields.io/static/v1?label=Contribution&message=Needed&color=orange&style=plastic)
+
+</div>
+
 ## Structure of this project
 ```
                                  FLASK_BOILERPLATE
