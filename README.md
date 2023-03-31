@@ -1,6 +1,8 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 # Flask_Boilerplate
 Want to create your website or webapp in `flask` as quick as possible, then try this boilerplate. This Repository is completly made for the sake of begginers and to make your web development routine a bit *faster* and to make you *productive*. This boilerplate is super flexible, you can alter this code to create your desired website. You can add, remove or modify the files in accordance to your project idea.
 
+<br>
 <div align="center">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Yuheshpandian/Flask_Boilerplate?style=plastic)
@@ -8,7 +10,8 @@ Want to create your website or webapp in `flask` as quick as possible, then try 
 ![GitHub](https://img.shields.io/github/license/Yuheshpandian/Flask_Boilerplate?style=plastic)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Yuheshpandian/Flask_Boilerplate?style=plastic)
 ![contribution](https://img.shields.io/static/v1?label=Contribution&message=Needed&color=orange&style=plastic)
-
+<br>
+  
 </div>
 
 ## Structure of this project
@@ -47,6 +50,7 @@ templates
 
 ```
 <br></br>
+<br>
 
 # Requirements
 ### To use this boilerplate you must have the following requirements installed in your system
@@ -86,8 +90,9 @@ now navigate to your http://localhost:5000
 - Well organized
 - Records the `Internal Server Error` of your site , while it is on the production
 - Fast web development routine
-
+<br>
 <br></br>
+
 ## 👨‍💻 Developer
 
 **_Yuhesh Pandian_**
@@ -99,4 +104,4 @@ Copyright © 2023 <a href="https://github.com/Yuheshpandian/">Yuheshpandian</a>.
 <br>
 This repo is <a href="https://github.com/Yuheshpandian/Flask_Boilerplate/blob/main/LICENSE">MIT</a> licensed
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------
