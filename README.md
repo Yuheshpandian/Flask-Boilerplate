@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 # Flask_Boilerplate
-Want to create your website or webapp in `flask` as quick as possible, then try this boilerplate. This Repository is completly made for the sake of begginers and to make your web development routine a bit *faster* and to make you *productive*. This boilerplate is super flexible, you can alter this code to create your desired website. You can add, remove or modify the files in accordance to your project idea.
+Want to create your website or webapp in `flask` as quick as possible, then try this boilerplate. This Repository is completly made for the sake of beginners and to make your web development routine a bit *faster* and to make you *productive*. This boilerplate is super flexible, you can alter this code to create your desired website. You can add, remove or modify the files in accordance to your project idea.
 
 <br>
 <div align="center">
