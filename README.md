@@ -14,6 +14,19 @@ Want to create your website or webapp in `flask` as quick as possible, then try 
   
 </div>
 
+## Table of Contents
+
+|SI.NO|CONTENT|
+|-----|-----|
+|1|Structure|
+|2|Requirements|
+|3|How to use|
+|4|Features|
+|5|Developer|
+|6|License|
+
+<br></br>
+
 ## Structure of this project
 ```
                                  FLASK_BOILERPLATE
