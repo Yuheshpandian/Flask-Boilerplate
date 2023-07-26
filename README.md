@@ -25,6 +25,7 @@ Want to create your website or webapp in `flask` as quick as possible, then try 
 |5|Developer|
 |6|License|
 
+
 <br></br>
 
 ## Structure of this project
