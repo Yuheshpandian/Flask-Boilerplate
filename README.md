@@ -66,14 +66,14 @@ templates
 <br></br>
 <br>
 
-# Requirements
+## Requirements
 ### To use this boilerplate you must have the following requirements installed in your system
 - <a href="https://www.python.org/">Python</a>
 - <a href="https://git-scm.com/">Git</a>
 
 <br></br>
 
-# How to use
+## How to use
 ### First clone this repo in your system
 For that open your `Terminal` and run the following command
 ```
@@ -94,9 +94,9 @@ python app.py
 ```
 now navigate to your http://localhost:5000
 
-#### now your server is ready to be developed, you can edit the files according to your site idea
+### now your server is ready to be developed, you can edit the files according to your site idea
 <br></br>
-# Features
+## Features
 - Highly flexible for any kind of website
 - Optimizable
 - Easy to use
@@ -107,6 +107,10 @@ now navigate to your http://localhost:5000
 - Default Favicon
 <br>
 <br></br>
+
+## Contributing:
+To contribute to the repository follow the guidelines listed in the [Contributing.md](CONTRIBUTING.md).
+
 
 ## 👨‍💻 Developer
 
