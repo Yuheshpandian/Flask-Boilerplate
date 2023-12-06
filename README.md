@@ -112,7 +112,7 @@ now navigate to your http://localhost:5000
 
 **_Yuhesh Pandian_**
 
-### Give a ⭐ if you find this repo helpful
+### Give a ⭐ if you find this repository helpful
 
 # 🪪License
 Copyright © 2023 <a href="https://github.com/Yuheshpandian/">Yuheshpandian</a>.
