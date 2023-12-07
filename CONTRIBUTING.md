@@ -53,7 +53,7 @@ By contributing to this project, you agree that your contributions will be licen
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact the maintainers at [maintainer@example.com](mailto:yuheshpandian@gmail.com).
+If you have any questions or need further assistance, feel free to contact the maintainers at [yuheshpandian@gmail.com](mailto:yuheshpandian@gmail.com).
 
 We appreciate your valuable contributions!
 
