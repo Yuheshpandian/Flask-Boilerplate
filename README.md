@@ -28,7 +28,7 @@ Want to create your website or webapp in `flask` as quick as possible, then try 
 
 <br></br>
 
-## Structure of this project
+## Project Structure
 ```
                                  FLASK_BOILERPLATE
                                          |
@@ -73,7 +73,7 @@ templates
 
 <br></br>
 
-## How to use
+## How to use:
 ### First clone this repo in your system
 For that open your `Terminal` and run the following command
 ```
@@ -94,8 +94,9 @@ python app.py
 ```
 now navigate to your http://localhost:5000
 
-### now your server is ready to be developed, you can edit the files according to your site idea
+### now your server is ready to be developed, you can edit the files according to your idea.
 <br></br>
+
 ## Features
 - Highly flexible for any kind of website
 - Optimizable
