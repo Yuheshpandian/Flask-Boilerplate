@@ -43,10 +43,6 @@ Thank you for considering contributing to this project! We welcome contributions
 - Reference any related issues or PRs in your description.
 - Ensure the PR passes any automated checks/tests.
 
-## Code of Conduct
-
-This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report any unacceptable behavior.
-
 ## Licensing
 
 By contributing to this project, you agree that your contributions will be licensed under the [project's license](LICENSE).
