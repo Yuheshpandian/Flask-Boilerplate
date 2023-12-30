@@ -14,21 +14,36 @@ Want to create your website or webapp in `flask` as quick as possible, then try 
   
 </div>
 
-## Table of Contents
+
+## 🗂️ Table of Contents
 
 |SI.NO|CONTENT|
 |-----|-----|
-|1|Structure|
-|2|Requirements|
-|3|How to use|
-|4|Features|
+|1|Features|
+|2|Structure|
+|3|Requirements|
+|4|How to use|
 |5|Developer|
 |6|License|
 
+<br>
+<br>
 
+## ➕ Features
+- Compact & Flexible Working Environment
+- Optimizable for a specific website
+- Easier usage
+- customizable *ERROR PAGES*
+- Well organized
+- Logging of `Internal Server Errors`
+- Faster web development routine
+- Default Favicon
+- 
+<br>
 <br></br>
 
-## Project Structure
+
+## 📁 Project Structure
 ```
                                  FLASK_BOILERPLATE
                                          |
@@ -66,14 +81,14 @@ templates
 <br></br>
 <br>
 
-## Requirements
+## 📄 Requirements
 ### To use this boilerplate you must have the following requirements installed in your system
 - <a href="https://www.python.org/">Python</a>
 - <a href="https://git-scm.com/">Git</a>
 
 <br></br>
 
-## How to use:
+## 🧑🏻‍💻 How to use:
 ### First clone this repo in your system
 For that open your `Terminal` and run the following command
 ```
@@ -97,31 +112,21 @@ now navigate to your http://localhost:5000
 ### now your server is ready to be developed, you can edit the files according to your idea.
 <br></br>
 
-## Features
-- Highly flexible for any kind of website
-- Optimizable
-- Easy to use
-- customizable *ERROR PAGES* of your site
-- Well organized
-- Records the `Internal Server Error` of your site , while it is on the production
-- Fast web development routine
-- Default Favicon
-<br>
-<br></br>
 
-## Contributing:
+
+## 🤝 Contributing:
 To contribute to the repository follow the guidelines listed in the [Contributing.md](CONTRIBUTING.md).
 
-
-## 👨‍💻 Developer
-
-Made with ❤️ by **_Yuhesh Pandian_**
-
-### Give a ⭐ if you find this repository helpful
 
 # 🪪License
 Copyright © 2023 <a href="https://github.com/Yuheshpandian/">Yuheshpandian</a>.
 <br>
 This Repository is <a href="https://github.com/Yuheshpandian/Flask_Boilerplate/blob/main/LICENSE">MIT</a> licensed
+
+<div align="center">
+
+Made with ❤️ by **_Yuhesh Pandian_**
+
+</div>
 
 ---
