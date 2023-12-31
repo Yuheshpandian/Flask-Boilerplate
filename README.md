@@ -1,4 +1,5 @@
------
+<!--Header Section-->
+----
 # Flask_Boilerplate
 Want to create your website or webapp in `flask` as quick as possible, then try this boilerplate. This Repository is completly made for the sake of beginners and to make your web development routine a bit *faster* and to make you *productive*. This boilerplate is super flexible, you can alter this code to create your desired website. You can add, remove or modify the files in accordance to your project idea.
 
@@ -14,6 +15,9 @@ Want to create your website or webapp in `flask` as quick as possible, then try 
   
 </div>
 
+----
+
+<!--Main/Content Section-->
 
 ## 🗂️ Table of Contents
 
@@ -123,10 +127,16 @@ Copyright © 2023 <a href="https://github.com/Yuheshpandian/">Yuheshpandian</a>.
 <br>
 This Repository is <a href="https://github.com/Yuheshpandian/Flask_Boilerplate/blob/main/LICENSE">MIT</a> licensed
 
+
+<!-- Footer Section-->
+
+----
+
+
 <div align="center">
 
 Made with ❤️ by **_Yuhesh Pandian_**
 
 </div>
 
----
+----
