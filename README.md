@@ -46,7 +46,7 @@ Want to create your website or webapp in `flask` as quick as possible, then try 
 <br>
 <br></br>
 
-
+<!--Project Structure-->
 ## 📁 Project Structure
 ```
                                  FLASK_BOILERPLATE
@@ -85,6 +85,7 @@ templates
 <br></br>
 <br>
 
+<!--Requirements-->
 ## 📄 Requirements
 ### To use this boilerplate you must have the following requirements installed in your system
 - <a href="https://www.python.org/">Python</a>
@@ -92,6 +93,7 @@ templates
 
 <br></br>
 
+<!--Usage-->
 ## 🧑🏻‍💻 How to use:
 ### First clone this repo in your system
 For that open your `Terminal` and run the following command
@@ -117,11 +119,11 @@ now navigate to your http://localhost:5000
 <br></br>
 
 
-
+<!--Contribution-->
 ## 🤝 Contributing:
 To contribute to the repository follow the guidelines listed in the [Contributing.md](CONTRIBUTING.md).
 
-
+<!--License-->
 # 🪪License
 Copyright © 2023 <a href="https://github.com/Yuheshpandian/">Yuheshpandian</a>.
 <br>
