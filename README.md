@@ -24,11 +24,10 @@ Want to create your website or webapp in `flask` as quick as possible, then try 
 |SI.NO|CONTENT|
 |-----|-----|
 |1|[Features](#-Features)|
-|2|Structure|
-|3|Requirements|
-|4|How to use|
-|5|Developer|
-|6|License|
+|2|[Structure](#-Structure)|
+|3|[Requirements](#-Requirements)|
+|4|[How to use](#-How-to-use)|
+|5|[License](#-License)|
 
 <br>
 <br>
