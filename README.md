@@ -24,7 +24,7 @@ Want to create your website or webapp in `flask` as quick as possible, then try 
 |SI.NO|CONTENT|
 |-----|-----|
 |1|[Features](#-Features)|
-|2|[Structure](#-Structure)|
+|2|[Structure](#-Project-Structure)|
 |3|[Requirements](#-Requirements)|
 |4|[How to use](#-How-to-use)|
 |5|[License](#-License)|
@@ -41,7 +41,8 @@ Want to create your website or webapp in `flask` as quick as possible, then try 
 - Logging of `Internal Server Errors`
 - Faster web development routine
 - Default Favicon
-- 
+
+  
 <br>
 <br></br>
 
@@ -123,7 +124,7 @@ now navigate to your http://localhost:5000
 To contribute to the repository follow the guidelines listed in the [Contributing.md](CONTRIBUTING.md).
 
 <!--License-->
-# 🪪License
+## 🪪License
 Copyright © 2023 <a href="https://github.com/Yuheshpandian/">Yuheshpandian</a>.
 <br>
 This Repository is <a href="https://github.com/Yuheshpandian/Flask_Boilerplate/blob/main/LICENSE">MIT</a> licensed
