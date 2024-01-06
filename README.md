@@ -137,7 +137,7 @@ This Repository is <a href="https://github.com/Yuheshpandian/Flask_Boilerplate/b
 
 <div align="center">
 
-Made with ❤️ by **_Yuhesh Pandian_**
+Made with ❤️ by **Yuhesh**
 
 </div>
 
