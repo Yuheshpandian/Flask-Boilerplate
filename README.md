@@ -23,7 +23,7 @@ Want to create your website or webapp in `flask` as quick as possible, then try 
 
 |SI.NO|CONTENT|
 |-----|-----|
-|1|Features|
+|1|[Features](#Features)|
 |2|Structure|
 |3|Requirements|
 |4|How to use|
