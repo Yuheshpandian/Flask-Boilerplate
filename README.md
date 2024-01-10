@@ -97,20 +97,20 @@ templates
 ## 🧑🏻‍💻 How to use:
 ### First clone this repo in your system
 For that open your `Terminal` and run the following command
-```
+```bash
 git clone https://github.com/Yuheshpandian/Flask_Boilerplate.git
 ```
 then use this command
-```
+```bash
 cd Flask_Boilerplate
 ```
 now to install the requirements use the following command
-```
+```bash
 pip install -r requirements.txt
 ```
 now your setup is completly ready
 ### to run the app use the following command
-```
+```bash
 python app.py
 ```
 now navigate to your http://localhost:5000
