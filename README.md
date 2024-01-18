@@ -1,7 +1,7 @@
 <!--Header Section-->
 ----
 # Flask Boilerplate
-Want to create your website or webapp in `flask` as quick as possible, then try this boilerplate. This Repository is completly made for the sake of beginners and to make your web development routine a bit *faster* and to make you *productive*. This boilerplate is super flexible, you can alter this code to create your desired website. You can add, remove or modify the files in accordance to your project idea.
+Are you looking to create your website or web application in Flask quickly and efficiently? Look no further than this meticulously crafted boilerplate. Tailored for beginners, this repository is designed to expedite your web development routine, enhancing productivity along the way.This boilerplate is your versatile canvas - turn your ideas into reality effortlessly.
 
 <br>
 <div align="center">
@@ -21,14 +21,12 @@ Want to create your website or webapp in `flask` as quick as possible, then try 
 
 ## 🗂️ Table of Contents
 
-|SI.NO|CONTENT|
-|-----|-----|
-|1|[Features](#-Features)|
-|2|[Structure](#-Project-Structure)|
-|3|[Requirements](#-Requirements)|
-|4|[How to use](#-How-to-use)|
-|5|[License](#-License)|
-
+1. [Key Features](#-key-features)
+2. [Project Structure](#-project-structure)
+3. [Requirements](#-system-requirements)
+4. [How to Use](#-how-to-use)
+5. [Contributing](#-Contributing)
+6. [License](#-license)
 <br>
 <br>
 
@@ -65,41 +63,43 @@ By incorporating these features, our platform aims to provide a sophisticated an
 <br></br>
 
 <!--Project Structure-->
+
 ## 📁 Project Structure
+
+```plaintext
+FLASK_BOILERPLATE
+│
+├── static
+│   ├── css
+│   │   ├── 403.css
+│   │   └── 404.css
+│   ├── fonts
+│   │   ├── font1
+│   │   └── font2
+│   ├── gifs
+│   │   ├── rocket.gif
+│   ├── icons
+│   │   ├── favicon.ico
+│   ├── images
+│   │   ├── 403.png
+│   │   ├── 404.jpg
+│   │   ├── 500.jpg
+│   ├── js
+│   │   ├── home.js
+│
+├── templates
+│   ├── 403page.html
+│   ├── 404page.html
+│   ├── 500page.html
+│   └── home.html
+│
+├── app.py
+├── config.py
+├── errorlog.txt
+├── requirements.txt
+
 ```
-                                 FLASK_BOILERPLATE
-                                         |
------------------------------------------------------------------------------------
-  |                |                |              |             |               |
-static         templates         app.py        config.py      errorlog.txt  requirements.txt
 
-
-
-                                        static
-                                          |
----------------------------------------------------------------------------------
-|                |          |               |                |                  |
-css             fonts      gifs            icons           images              js
-|-403.css        |-font1    |-rocket.gif    |-favicon.ico    |-403.png          |-home.js
-|                |                                           |
-|-404.css        |-font2                                     |-404.jpg
-|                                                            |
-|-500.css                                                    |-500.jpg
-|
-|-home.css
-
-
-
-templates
-   |-403page.html
-   |
-   |-404page.html
-   |
-   |-500page.html
-   |
-   |-home.html
-
-```
 <br></br>
 <br>
 
@@ -120,40 +120,66 @@ Ensure that your system satisfies these prerequisites before proceeding with the
 <br></br>
 
 <!--Usage-->
-## 🧑🏻‍💻 How to use:
-### First clone this repo in your system
-For that open your `Terminal` and run the following command
+
+
+## 🧑🏻‍💻 How to Use
+
+### Clone the Repository
+> Begin by cloning this repository to your local system. Open your terminal and execute the following command:
+
 ```bash
 git clone https://github.com/Yuheshpandian/Flask_Boilerplate.git
 ```
-then use this command
+
+> Navigate to the cloned directory:
+
 ```bash
 cd Flask_Boilerplate
 ```
-now to install the requirements use the following command
+
+### Install Dependencies
+> Install the necessary dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-now your setup is completly ready
-### to run the app use the following command
+
+> Your setup is now complete.
+
+### Run the Application
+> To launch the application, use the following command:
+
 ```bash
 python app.py
 ```
-now navigate to your http://localhost:5000
 
-### now your server is ready to be developed, you can edit the files according to your idea.
+> Visit http://localhost:5000 in your preferred web browser.
+
+### Development
+Your server is ready for development. Customize the files according to your project requirements and ideas.
+
 <br></br>
 
 
 <!--Contribution-->
-## 🤝 Contributing:
-To contribute to the repository follow the guidelines listed in the [Contributing.md](CONTRIBUTING.md).
+## 🤝 Contributing
+
+Your contributions are valuable! To maintain a collaborative and effective environment, please adhere to the guidelines specified in [Contributing.md](CONTRIBUTING.md). Follow these steps for a smooth contribution process:
+
+1. Fork the repository to your own GitHub account.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes, ensuring they align with the project's coding conventions.
+4. Commit your changes with clear and concise messages.
+5. Push your branch to your forked repository.
+6. Submit a pull request, detailing the changes made and their significance.
+
+We appreciate your commitment to enhancing this project and will review your contributions promptly.
 
 <!--License-->
-## 🪪License
-Copyright © 2023 <a href="https://github.com/Yuheshpandian/">Yuheshpandian</a>.
-<br>
-This Repository is <a href="https://github.com/Yuheshpandian/Flask_Boilerplate/blob/main/LICENSE">MIT</a> licensed
+## 📜 License
+
+Copyright © 2023 [Yuheshpandian](https://github.com/Yuheshpandian/).
+
+This repository is licensed under the [MIT License](https://github.com/Yuheshpandian/Flask_Boilerplate/blob/main/LICENSE). Your use and contribution to this project are bound by the terms specified in the license.
 
 
 <!-- Footer Section-->
