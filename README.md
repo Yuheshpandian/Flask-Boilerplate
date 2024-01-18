@@ -32,15 +32,33 @@ Want to create your website or webapp in `flask` as quick as possible, then try 
 <br>
 <br>
 
-## ➕ Features
-- Compact & Flexible Working Environment
-- Optimizable for a specific website
-- Easier usage
-- customizable *ERROR PAGES*
-- Well organized
-- Logging of `Internal Server Errors`
-- Faster web development routine
-- Default Favicon
+## ➕ Key Features
+
+1. **Compact & Flexible Workspace:**
+   - Streamline your work with a compact and flexible environment designed for optimal productivity.
+
+2. **Website Optimization Capabilities:**
+   - Tailor the system for specific websites, ensuring efficiency and performance optimization.
+
+3. **Enhanced User-Friendly Interface:**
+   - Experience easier usage through an intuitive and user-friendly interface, facilitating seamless navigation.
+
+4. **Customizable Error Pages:**
+   - Personalize error pages to maintain brand consistency and provide a polished user experience during unexpected events.
+
+5. **Systematic Organization:**
+   - Benefit from a well-organized structure that enhances workflow and simplifies the development process.
+
+6. **Error Logging for Internal Server Errors:**
+   - Identify and troubleshoot issues efficiently with comprehensive logging of internal server errors.
+
+7. **Accelerated Web Development Routine:**
+   - Expedite your web development process, saving time and resources while ensuring high-quality results.
+
+8. **Default Favicon Inclusion:**
+   - Present a polished and professional image with the inclusion of default favicons for a cohesive brand identity.
+
+By incorporating these features, our platform aims to provide a sophisticated and efficient environment for your web development needs.
 
   
 <br>
@@ -86,10 +104,18 @@ templates
 <br>
 
 <!--Requirements-->
-## 📄 Requirements
-### To use this boilerplate you must have the following requirements installed in your system
-- <a href="https://www.python.org/">Python</a>
-- <a href="https://git-scm.com/">Git</a>
+## 📄 System Requirements
+
+### Prerequisites for Boilerplate Usage:
+
+1. **Python:**
+   - Install Python by visiting the official [Python website](https://www.python.org/).
+
+2. **Git:**
+   - Obtain Git from the official [Git website](https://git-scm.com/).
+
+Ensure that your system satisfies these prerequisites before proceeding with the utilization of this boilerplate.
+
 
 <br></br>
 
