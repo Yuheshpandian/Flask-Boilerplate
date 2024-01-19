@@ -1,0 +1,12 @@
+{
+  "editor.fontSize": 16,
+  "editor.tabSize": 3,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.rightClickCopyPaste": true,
+  "files.insertFinalNewline": true,
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingQuotes": "always"
+}
