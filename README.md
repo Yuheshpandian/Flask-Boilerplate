@@ -6,11 +6,11 @@ Are you looking to create your website or web application in Flask quickly and e
 <br>
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Yuheshpandian/Flask_Boilerplate?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/Yuheshpandian/Flask_Boilerplate?style=plastic)
-![GitHub](https://img.shields.io/github/license/Yuheshpandian/Flask_Boilerplate?style=plastic)
-![GitHub Repo stars](https://img.shields.io/github/stars/Yuheshpandian/Flask_Boilerplate?style=plastic)
-![contribution](https://img.shields.io/static/v1?label=Contribution&message=Needed&color=orange&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/Yuheshpandian/Flask_Boilerplate?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Yuheshpandian/Flask_Boilerplate?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/Yuheshpandian/Flask_Boilerplate?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/Yuheshpandian/Flask_Boilerplate?style=for-the-badge)
+![contribution](https://img.shields.io/static/v1?label=Contribution&message=Needed&color=orange&style=for-the-badge)
 <br>
   
 </div>
