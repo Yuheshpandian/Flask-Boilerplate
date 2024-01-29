@@ -73,9 +73,6 @@ FLASK_BOILERPLATE
 │   ├── css
 │   │   ├── 403.css
 │   │   └── 404.css
-│   ├── fonts
-│   │   ├── font1
-│   │   └── font2
 │   ├── gifs
 │   │   ├── rocket.gif
 │   ├── icons
@@ -86,6 +83,7 @@ FLASK_BOILERPLATE
 │   │   ├── 500.jpg
 │   ├── js
 │   │   ├── home.js
+|   |__ videos
 │
 ├── templates
 │   ├── 403page.html
