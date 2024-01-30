@@ -83,7 +83,7 @@ FLASK_BOILERPLATE
 │   │   ├── 500.jpg
 │   ├── js
 │   │   ├── home.js
-|   |__ videos
+│   ├── videos
 │
 ├── templates
 │   ├── 403page.html
