@@ -132,7 +132,7 @@ git clone https://github.com/Yuheshpandian/Flask_Boilerplate.git
 > Navigate to the cloned directory:
 
 ```bash
-cd Flask_Boilerplate
+cd Flask_Boilerplate/Boilerplate
 ```
 
 ### Install Dependencies
