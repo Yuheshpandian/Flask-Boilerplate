@@ -1,7 +1,14 @@
-<!--Header Section-->
-----
+## <!--Header Section-->
+
 # Flask Boilerplate
+
 Are you looking to create your website or web application in Flask quickly and efficiently? Look no further than this meticulously crafted boilerplate. Tailored for beginners, this repository is designed to expedite your web development routine, enhancing productivity along the way.This boilerplate is your versatile canvas - turn your ideas into reality effortlessly.
+
+---
+
+Under Development For Now
+
+---
 
 <br>
 <div align="center">
@@ -12,10 +19,10 @@ Are you looking to create your website or web application in Flask quickly and e
 ![GitHub Repo stars](https://img.shields.io/github/stars/Yuheshpandian/Flask_Boilerplate?style=for-the-badge)
 ![contribution](https://img.shields.io/static/v1?label=Contribution&message=Needed&color=orange&style=for-the-badge)
 <br>
-  
+
 </div>
 
-----
+---
 
 <!--Main/Content Section-->
 
@@ -27,30 +34,37 @@ Are you looking to create your website or web application in Flask quickly and e
 4. [How to Use](#-how-to-use)
 5. [Contributing](#-Contributing)
 6. [License](#-license)
-<br>
-<br>
+   <br>
+   <br>
 
 ## ➕ Key Features
 
 1. **Compact & Flexible Workspace:**
+
    - Streamline your work with a compact and flexible environment designed for optimal productivity.
 
 2. **Website Optimization Capabilities:**
+
    - Tailor the system for specific websites, ensuring efficiency and performance optimization.
 
 3. **Enhanced User-Friendly Interface:**
+
    - Experience easier usage through an intuitive and user-friendly interface, facilitating seamless navigation.
 
 4. **Customizable Error Pages:**
+
    - Personalize error pages to maintain brand consistency and provide a polished user experience during unexpected events.
 
 5. **Systematic Organization:**
+
    - Benefit from a well-organized structure that enhances workflow and simplifies the development process.
 
 6. **Error Logging for Internal Server Errors:**
+
    - Identify and troubleshoot issues efficiently with comprehensive logging of internal server errors.
 
 7. **Accelerated Web Development Routine:**
+
    - Expedite your web development process, saving time and resources while ensuring high-quality results.
 
 8. **Default Favicon Inclusion:**
@@ -58,7 +72,6 @@ Are you looking to create your website or web application in Flask quickly and e
 
 By incorporating these features, our platform aims to provide a sophisticated and efficient environment for your web development needs.
 
-  
 <br>
 <br></br>
 
@@ -102,11 +115,13 @@ FLASK_BOILERPLATE
 <br>
 
 <!--Requirements-->
+
 ## 📄 System Requirements
 
 ### Prerequisites for Boilerplate Usage:
 
 1. **Python:**
+
    - Install Python by visiting the official [Python website](https://www.python.org/).
 
 2. **Git:**
@@ -114,15 +129,14 @@ FLASK_BOILERPLATE
 
 Ensure that your system satisfies these prerequisites before proceeding with the utilization of this boilerplate.
 
-
 <br></br>
 
 <!--Usage-->
 
-
 ## 🧑🏻‍💻 How to Use
 
 ### Clone the Repository
+
 > Begin by cloning this repository to your local system. Open your terminal and execute the following command:
 
 ```bash
@@ -136,7 +150,9 @@ cd Flask_Boilerplate/Boilerplate
 ```
 
 ### Install Dependencies
+
 > Install the necessary dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -144,6 +160,7 @@ pip install -r requirements.txt
 > Your setup is now complete.
 
 ### Run the Application
+
 > To launch the application, use the following command:
 
 ```bash
@@ -153,12 +170,13 @@ python app.py
 > Visit http://localhost:5000 in your preferred web browser.
 
 ### Development
+
 Your server is ready for development. Customize the files according to your project requirements and ideas.
 
 <br></br>
 
-
 <!--Contribution-->
+
 ## 🤝 Contributing
 
 Your contributions are valuable! To maintain a collaborative and effective environment, please adhere to the guidelines specified in [Contributing.md](CONTRIBUTING.md). Follow these steps for a smooth contribution process:
@@ -173,17 +191,16 @@ Your contributions are valuable! To maintain a collaborative and effective envir
 We appreciate your commitment to enhancing this project and will review your contributions promptly.
 
 <!--License-->
+
 ## 📜 License
 
 Copyright © 2023 [Yuheshpandian](https://github.com/Yuheshpandian/).
 
 This repository is licensed under the [MIT License](https://github.com/Yuheshpandian/Flask_Boilerplate/blob/main/LICENSE). Your use and contribution to this project are bound by the terms specified in the license.
 
-
 <!-- Footer Section-->
 
-----
-
+---
 
 <div align="center">
 
@@ -191,4 +208,4 @@ Made with ❤️ by **Yuhesh**
 
 </div>
 
-----
+---
