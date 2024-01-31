@@ -83,8 +83,8 @@ By incorporating these features, our platform aims to provide a sophisticated an
 
 ## 📁 Project Structure
 
-```plaintext
-FLASK_BOILERPLATE
+```Bash
+(Root:FLASK_BOILERPLATE)
 │
 ├── static
 │   ├── css
@@ -95,9 +95,8 @@ FLASK_BOILERPLATE
 │   ├── icons
 │   │   ├── favicon.ico
 │   ├── images
-│   │   ├── 403.png
-│   │   ├── 404.jpg
-│   │   ├── 500.jpg
+│   │   ├── 404.png
+│   │   ├── logo.png
 │   ├── js
 │   │   ├── home.js
 │   ├── videos
