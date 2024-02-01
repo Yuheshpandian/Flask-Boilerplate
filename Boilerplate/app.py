@@ -8,8 +8,8 @@ from rich.table import Table
 # Creating a app instance
 app = Flask(__name__)
 
+# initialising console to print config details
 console = Console()
-
 
 
 # website's configuration is initialized in this line in relative to config.py file
