@@ -6,7 +6,10 @@ from logging import FileHandler, WARNING
 app = Flask(__name__)
 
 # website's configuration is initialized in this line in relative to config.py file
-app.config.from_pyfile("config.py")
+app.config.from_object("config.DevelopmentConfig")
+print(app.debug, ": DEBUG")
+print(app.testing, ": TESTING")
+
 
 
 # All routes are defined below
