@@ -5,6 +5,10 @@ from logging import FileHandler, WARNING
 # Creating a app instance
 app = Flask(__name__)
 
+# website's configuration is initialized in this line in relative to config.py file
+app.config.from_pyfile("config.py")
+
+
 # All routes are defined below
 # Modify or Add routes according to your site idea
 
@@ -39,8 +43,6 @@ def forbidden(e):
     
 # Definition of error handlers ends here
 
-# website's configuration is initialized in this line in relative to config.py file
-app.config.from_pyfile("config.py")
 
 #This code snippet works only when the debug mode is False that is only on production. This code adds the internal server error of your site when it is on production to the "errorlog.txt" file.
 if not app.debug:
