@@ -1,7 +1,7 @@
 @import url("../css/utilities.css");
 
 .banner {
-   font-size: 33rem;
+   font-size: 30rem;
    font-family: "Sora", sans-serif;
    text-align: center;
    color: #7200dd;
@@ -10,6 +10,6 @@
 em {
    font-style: normal;
    text-shadow: 0 0 20px #000000bd;
-   font-size: 38rem;
+   font-size: 35rem;
    color: #7c0be6;
 }

@@ -1,1 +1,11 @@
 @import url("../css/utilities.css");
+
+.img {
+   margin: 30px;
+   filter: drop-shadow(0px 0px 10px #4400ffc2);
+   scale: 1.2;
+}
+
+.img-section {
+   text-align: center;
+}
