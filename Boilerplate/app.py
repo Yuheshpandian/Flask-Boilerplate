@@ -16,7 +16,6 @@ console = Console()
 app.config.from_object("config.DevelopmentConfig")
 
 
-
 # All routes are defined below
 # Modify or Add routes according to your site idea
 
@@ -67,7 +66,7 @@ if not app.debug:
 
 # Runs only when the file is run directly by not importing
 if __name__ == "__main__":
-    if app.debug:
+    if app.debug or app.testing:
         table = Table(title="FLASK APP CONFIGURATION" , style="blue", min_width=50, title_style="magenta", leading=True)
 
         table.add_column("S.NO", justify="center", style="yellow")
